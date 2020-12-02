@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of pet-factory
+ */
+// export * from './lib/pet-factory.service';
+export * from './lib/pet-factory.component';
+export * from './lib/pet-factory.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL3BldC1mYWN0b3J5LyIsInNvdXJjZXMiOlsicHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILDZDQUE2QztBQUM3QyxjQUFjLDZCQUE2QixDQUFDO0FBQzVDLGNBQWMsMEJBQTBCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIHBldC1mYWN0b3J5XG4gKi9cblxuLy8gZXhwb3J0ICogZnJvbSAnLi9saWIvcGV0LWZhY3Rvcnkuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9wZXQtZmFjdG9yeS5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvcGV0LWZhY3RvcnkubW9kdWxlJztcbiJdfQ==

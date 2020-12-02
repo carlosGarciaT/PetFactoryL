@@ -1,0 +1,15 @@
+import { __decorate } from "tslib";
+import { NgModule } from '@angular/core';
+import { PetFactoryComponent } from './pet-factory.component';
+import { FormsModule } from '@angular/forms';
+let PetFactoryModule = class PetFactoryModule {
+};
+PetFactoryModule = __decorate([
+    NgModule({
+        declarations: [PetFactoryComponent],
+        imports: [FormsModule],
+        exports: [PetFactoryComponent, FormsModule],
+    })
+], PetFactoryModule);
+export { PetFactoryModule };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicGV0LWZhY3RvcnkubW9kdWxlLmpzIiwic291cmNlUm9vdCI6Im5nOi8vcGV0LWZhY3RvcnkvIiwic291cmNlcyI6WyJsaWIvcGV0LWZhY3RvcnkubW9kdWxlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSxPQUFPLEVBQUUsUUFBUSxFQUFFLE1BQU0sZUFBZSxDQUFDO0FBQ3pDLE9BQU8sRUFBRSxtQkFBbUIsRUFBRSxNQUFNLHlCQUF5QixDQUFDO0FBQzlELE9BQU8sRUFBRSxXQUFXLEVBQUUsTUFBTSxnQkFBZ0IsQ0FBQztBQU83QyxJQUFhLGdCQUFnQixHQUE3QixNQUFhLGdCQUFnQjtDQUFHLENBQUE7QUFBbkIsZ0JBQWdCO0lBTDVCLFFBQVEsQ0FBQztRQUNSLFlBQVksRUFBRSxDQUFDLG1CQUFtQixDQUFDO1FBQ25DLE9BQU8sRUFBRSxDQUFDLFdBQVcsQ0FBQztRQUN0QixPQUFPLEVBQUUsQ0FBQyxtQkFBbUIsRUFBRSxXQUFXLENBQUM7S0FDNUMsQ0FBQztHQUNXLGdCQUFnQixDQUFHO1NBQW5CLGdCQUFnQiIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IE5nTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XG5pbXBvcnQgeyBQZXRGYWN0b3J5Q29tcG9uZW50IH0gZnJvbSAnLi9wZXQtZmFjdG9yeS5jb21wb25lbnQnO1xuaW1wb3J0IHsgRm9ybXNNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9mb3Jtcyc7XG5cbkBOZ01vZHVsZSh7XG4gIGRlY2xhcmF0aW9uczogW1BldEZhY3RvcnlDb21wb25lbnRdLFxuICBpbXBvcnRzOiBbRm9ybXNNb2R1bGVdLFxuICBleHBvcnRzOiBbUGV0RmFjdG9yeUNvbXBvbmVudCwgRm9ybXNNb2R1bGVdLFxufSlcbmV4cG9ydCBjbGFzcyBQZXRGYWN0b3J5TW9kdWxlIHt9XG4iXX0=

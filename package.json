@@ -1,0 +1,21 @@
+{
+  "name": "pet-factory",
+  "version": "2.0.2",
+  "peerDependencies": {
+    "@angular/common": "^9.1.12",
+    "@angular/core": "^9.1.12"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/pet-factory.umd.js",
+  "module": "fesm5/pet-factory.js",
+  "es2015": "fesm2015/pet-factory.js",
+  "esm5": "esm5/pet-factory.js",
+  "esm2015": "esm2015/pet-factory.js",
+  "fesm5": "fesm5/pet-factory.js",
+  "fesm2015": "fesm2015/pet-factory.js",
+  "typings": "pet-factory.d.ts",
+  "metadata": "pet-factory.metadata.json",
+  "sideEffects": false
+}
